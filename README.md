@@ -1,4 +1,4 @@
-*Mini Project Collection in Python*  
+__*Mini Project Collection in Python*__
 
 This repository contains a set of "beginner-friendly Python projects" that I built while learning programming.  
 Each project demonstrates different concepts such as arithmetic operations, file handling, APIs, and simple automation.  
@@ -26,7 +26,7 @@ ________________________________________________________________________________
    git clone https://github.com/bhoomikasv07/Mini-Project-Python.git
    cd Mini-Project-Python
 _____________________________________________________________________________________________________________
-*Features*
+*Features*-
 1.Beginner-friendly code
 2.Covers multiple Python concepts
 3.Useful mini tools & games
