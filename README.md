@@ -1,6 +1,6 @@
 __*Mini Project Collection in Python*__
 
-This repository contains a set of "beginner-friendly Python projects" that I built while learning programming.  
+This repository contains a set of beginner-friendly Python projects that I built while learning programming.  
 Each project demonstrates different concepts such as arithmetic operations, file handling, APIs, and simple automation.  
 ---
 Projects Included:-
@@ -20,13 +20,14 @@ Projects Included:-
 5. **PDF Merger**  
     A utility to merge multiple PDF files into a single file using Python.  
 ____________________________________________________________________________________________________________
-*How to Run*
+**How to Run**
 1. Clone the repository:
    ```bash
    git clone https://github.com/bhoomikasv07/Mini-Project-Python.git
    cd Mini-Project-Python
 _____________________________________________________________________________________________________________
-*Features*-
+**Features**
+
 1.Beginner-friendly code
 2.Covers multiple Python concepts
 3.Useful mini tools & games
